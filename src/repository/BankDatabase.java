@@ -1,6 +1,6 @@
 package repository;
 
-import Exceptions.CustomerNotFoundException;
+import exceptions.CustomerNotFoundException;
 import controller.BankOperations;
 import entity.Customer;
 

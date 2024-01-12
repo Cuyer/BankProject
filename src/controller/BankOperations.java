@@ -1,6 +1,6 @@
 package controller;
 
-import Exceptions.CustomerNotFoundException;
+import exceptions.CustomerNotFoundException;
 import entity.Customer;
 
 public interface BankOperations {
